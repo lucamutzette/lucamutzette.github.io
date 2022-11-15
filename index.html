@@ -4,276 +4,71 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <meta name="description" content="In questo sito si possono trovare informazioni sulle spiagge della baronia e di siniscola, capo comino, s'ena e sa chitta, berchida, la caletta, sa petra ruja, santa lucia. Ristoranti, bar, posti per dormire, hotel, b&b, esperienze">
-    <title>BaroniaSpiaggie</title>
-    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <title>lucamutzette.com</title>
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <meta name="description" content="sito personale di Luca Mutzette - luca mutzette">
 </head>
 <body>
-    <!--Pubblicita-->
-    <!--<div class="pubblicita" id="pubblicita-sinistra">
-    </div>-->
-
-    <div id="nav-off">
-        <span onclick="chiudi()"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line x1="200" y1="56" x2="56" y2="200" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><line x1="200" y1="200" x2="56" y2="56" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line></svg></span>
-        <a class="nav-bar-active nav-bar-item" href="">Spiaggie</a>
-        <a class="nav-bar-item" href="">News</a>
-        <a class="nav-bar-item" href="">Navetta</a>
-        <a class="nav-bar-item" href="">Contatti</a>
-    </div>
-
-    <div class="barra-superiore">
-        <div class="barra-superiore-padding">
-            <!--NOME PAGINA-->
-            <div class="barra-superiore-nome-pagina">
-                <img src="./baronia.svg" alt="" width="120px">
-            </div>
-
-            <!--nav bar-->
-            <nav class="nav-bar" onclick="apri()">
-                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line class="color-svg-menu" x1="40" y1="128" x2="216" y2="128" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><line class="color-svg-menu" x1="40" y1="64" x2="216" y2="64" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><line class="color-svg-menu" x1="40" y1="192" x2="216" y2="192" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line></svg>
-            </nav>
+    <!-- 100% [1] -->
+    <div class="page_home_one">
+        <video class="video_home" autoplay loop muted>
+            <source src="vid/video.mp4">
+        </video>
+        
+        
+        <div class='blocco_testo'>
+            <span class='title_web_site'>
+                <h1 class='titolo'>Luca Mutzette</h1>
+            </span>
         </div>
-    </div>
-
-
-    <!--CENTRO-->
-    <div class="centro">
-        <div class="centro-padding">
-            <!--BARRA SUPERIORE-->
-
-            <!--MAIN METEO-->
-            <div class="main-meteo">
-                <iframe src="https://www.3bmeteo.com/moduli_esterni/localita_7_giorni_compatto/6917/ffffff/007bff/5e5e5e/ffffff/it" width=100% height=100% style="scrollbar-width: 0;" frameborder="0"></iframe>
-            </div> 
-
-            <!--MAIN-->
-            <!--SPIAGGIE-->
-            <div class="main-spiaggie">
-                <div class="nome-pagina">
-                    <h1>Home</h1>
-                </div>
-
-                <div class="oggetti">
-                    <!--OGGETTO CAPOCOMINO-->
-                    <div class="oggetto">
-                        <div class="oggetto-img-spiaggia">
-                            <img src="img/home-capo-comino.webp" width="100%" height="100%"alt="capo-comino">
-                        </div>
-
-                        <div class="oggetto-info-spiaggia">
-                            <div class="oggetto-info-spiaggia-padding">
-                                <div class="oggetto-nome">
-                                    <h1>Capo Comino - S'ena E Sa Chitta</h1>
-                                </div>
-
-                                <div class="oggetto-descrizione-info">
-                                    <div class="oggetto-descrizione">
-                                        <p>Capo Comino, Sabbia Bianca e Montagne di Sabbia</p>
-                                    </div>
-
-                                    <div class="oggetto-info">
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line x1="84" y1="32" x2="84" y2="72" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><line x1="84" y1="116" x2="84" y2="224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><path d="M120,32V80a36,36,0,0,1-72,0V32" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path d="M204,160H148S160,48,204,32V224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg> 10+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M104,168V80H208a32,32,0,0,1,32,32v56" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><line x1="16" y1="208" x2="16" y2="48" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline points="16 168 240 168 240 208" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><line x1="104" y1="80" x2="16" y2="80" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line></svg> 5+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M208,80a16,16,0,0,0-16-16H148l56,96" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><circle cx="204" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle cx="52" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><polyline points="166.7 96 102.7 96 52 160" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline points="52 64 84 64 128.3 140" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg> 3+</p>
-                                    </div>
-                                </div>
-
-                                <div class="oggetto-tasto">
-                                    <div class="oggetto-tasto-padding">
-                                        <a href="capo-comino/index.html"><h6>Esplora</h6><svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line class="color-svg-a" x1="40" y1="128" x2="216" y2="128" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline class="color-svg-a" points="144 56 216 128 144 200" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--OGGETTO LA CALETTA-->
-                    <div class="oggetto">
-                        <div class="oggetto-img-spiaggia">
-                            <img src="img/home-la-caletta.webp" width="100%" height="100%"alt="lacaletta">
-                        </div>
-
-                        <div class="oggetto-info-spiaggia">
-                            <div class="oggetto-info-spiaggia-padding">
-                                <div class="oggetto-nome">
-                                    <h1>La Caletta</h1>
-                                </div>
-
-                                <div class="oggetto-descrizione-info">
-                                    <div class="oggetto-descrizione">
-                                        <p>Spiaggia Bianca, Mare cristallino e locali</p>
-                                    </div>
-
-                                    <div class="oggetto-info">
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line x1="84" y1="32" x2="84" y2="72" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><line x1="84" y1="116" x2="84" y2="224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><path d="M120,32V80a36,36,0,0,1-72,0V32" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path d="M204,160H148S160,48,204,32V224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg> 10+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M104,168V80H208a32,32,0,0,1,32,32v56" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><line x1="16" y1="208" x2="16" y2="48" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline points="16 168 240 168 240 208" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><line x1="104" y1="80" x2="16" y2="80" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line></svg> 5+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M208,80a16,16,0,0,0-16-16H148l56,96" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><circle cx="204" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle cx="52" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><polyline points="166.7 96 102.7 96 52 160" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline points="52 64 84 64 128.3 140" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg> 3+</p>
-                                    </div>
-                                </div>
-
-                                <div class="oggetto-tasto">
-                                    <div class="oggetto-tasto-padding">
-                                        <a href="/la-caletta/index.html"><h6>Esplora</h6><svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line class="color-svg-a" x1="40" y1="128" x2="216" y2="128" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline class="color-svg-a" points="144 56 216 128 144 200" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--PUBBLICITà MOBILE-->
-                    <!--<div class="pubblicita-mobile"></div>-->
-
-                    <!--OGGETTO LA SANTA LUCIA-->
-                    <div class="oggetto">
-                        <div class="oggetto-img-spiaggia">
-                            <img src="img/home-santa-lucia.webp" width="100%" height="100%"alt="santalucia">
-                        </div>
-
-                        <div class="oggetto-info-spiaggia">
-                            <div class="oggetto-info-spiaggia-padding">
-                                <div class="oggetto-nome">
-                                    <h1>Santa Lucia</h1>
-                                </div>
-
-                                <div class="oggetto-descrizione-info">
-                                    <div class="oggetto-descrizione">
-                                        <p>Una piccola Spiaggia che riflette il sole come uno specchio</p>
-                                    </div>
-
-                                    <div class="oggetto-info">
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line x1="84" y1="32" x2="84" y2="72" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><line x1="84" y1="116" x2="84" y2="224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><path d="M120,32V80a36,36,0,0,1-72,0V32" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path d="M204,160H148S160,48,204,32V224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg> 10+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M104,168V80H208a32,32,0,0,1,32,32v56" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><line x1="16" y1="208" x2="16" y2="48" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline points="16 168 240 168 240 208" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><line x1="104" y1="80" x2="16" y2="80" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line></svg> 5+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M208,80a16,16,0,0,0-16-16H148l56,96" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><circle cx="204" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle cx="52" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><polyline points="166.7 96 102.7 96 52 160" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline points="52 64 84 64 128.3 140" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg> 3+</p>
-                                    </div>
-                                </div>
-
-                                <div class="oggetto-tasto">
-                                    <div class="oggetto-tasto-padding">
-                                        <a href="santa-lucia/index.html"><h6>Esplora</h6><svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line class="color-svg-a" x1="40" y1="128" x2="216" y2="128" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline class="color-svg-a" points="144 56 216 128 144 200" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <!--OGGETTO SA PREDA RUJA-->
-                    <div class="oggetto">
-                        <div class="oggetto-img-spiaggia">
-                            <img src="img/home-sa-petra-ruja.webp" width="100%" height="100%"alt="sapetraruja">
-                        </div>
-
-                        <div class="oggetto-info-spiaggia">
-                            <div class="oggetto-info-spiaggia-padding">
-                                <div class="oggetto-nome">
-                                    <h1>Sa Petra Ruja</h1>
-                                </div>
-
-                                <div class="oggetto-descrizione-info">
-                                    <div class="oggetto-descrizione">
-                                        <p>Spiaggia Bianca, Mare cristallino e locali</p>
-                                    </div>
-
-                                    <div class="oggetto-info">
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line x1="84" y1="32" x2="84" y2="72" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><line x1="84" y1="116" x2="84" y2="224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><path d="M120,32V80a36,36,0,0,1-72,0V32" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path d="M204,160H148S160,48,204,32V224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg> 10+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M104,168V80H208a32,32,0,0,1,32,32v56" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><line x1="16" y1="208" x2="16" y2="48" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline points="16 168 240 168 240 208" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><line x1="104" y1="80" x2="16" y2="80" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line></svg> 5+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M208,80a16,16,0,0,0-16-16H148l56,96" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><circle cx="204" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle cx="52" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><polyline points="166.7 96 102.7 96 52 160" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline points="52 64 84 64 128.3 140" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg> 3+</p>
-                                    </div>
-                                </div>
-
-                                <div class="oggetto-tasto">
-                                    <div class="oggetto-tasto-padding">
-                                        <a href="sa-petra-ruja/index.html"><h6>Esplora</h6><svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line class="color-svg-a" x1="40" y1="128" x2="216" y2="128" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline class="color-svg-a" points="144 56 216 128 144 200" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <!--PUBBLICITà MOBILE-->
-                    <!--<div class="pubblicita-mobile"></div>-->
-
-                    <!--OGGETTO BERCHIDA-->
-                    <!--<div class="oggetto">
-                        <div class="oggetto-img-spiaggia">
-                            <img src="img/home-berchida.webp" width="100%" height="100%"alt="">
-                        </div>
-
-                        <div class="oggetto-info-spiaggia">
-                            <div class="oggetto-info-spiaggia-padding">
-                                <div class="oggetto-nome">
-                                    <h1>Berchida</h1>
-                                </div>
-
-                                <div class="oggetto-descrizione-info">
-                                    <div class="oggetto-descrizione">
-                                        <p>Spiaggia Bianca, Mare cristallino e locali</p>
-                                    </div>
-
-                                    <div class="oggetto-info">
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line x1="84" y1="32" x2="84" y2="72" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><line x1="84" y1="116" x2="84" y2="224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><path d="M120,32V80a36,36,0,0,1-72,0V32" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><path d="M204,160H148S160,48,204,32V224" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path></svg> 10+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M104,168V80H208a32,32,0,0,1,32,32v56" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><line x1="16" y1="208" x2="16" y2="48" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline points="16 168 240 168 240 208" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><line x1="104" y1="80" x2="16" y2="80" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line></svg> 5+</p>
-                                        <p><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M208,80a16,16,0,0,0-16-16H148l56,96" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></path><circle cx="204" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle cx="52" cy="160" r="40" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><polyline points="166.7 96 102.7 96 52 160" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline><polyline points="52 64 84 64 128.3 140" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg> 3+</p>
-                                    </div>
-                                </div>
-
-                                <div class="oggetto-tasto">
-                                    <div class="oggetto-tasto-padding">
-                                        <a href=""><h6>Esplora</h6><svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><line class="color-svg-a" x1="40" y1="128" x2="216" y2="128" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line><polyline class="color-svg-a" points="144 56 216 128 144 200" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></polyline></svg></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="oggetto" id="oggetto-vuoto" style="box-shadow: none;"></div>-->
-                    <!--PUBBLICITà MOBILE-->
-                    <div class="pubblicita-mobile"></div>
-                </div>
-            </div>
-            <!--METEO-NEWS-->
-            <div class="main-meteo">
-                <!--<iframe src="https://www.3bmeteo.com/moduli_esterni/localita_7_giorni_dettaglio/6917/ffffff/007bff/5e5e5e/ffffff/it" width=187 height=467 frameborder="0"></iframe><br/><a href="https://www.3bmeteo.com/meteo/siniscola" >Meteo Siniscola</a>
-        --></div> 
+        
+        <div class='blocco_scroll'>
+            <img class='freccia animate__animated animate__shakeY' src="./img/arrow.svg" width='70px' alt="SCROLL">
         </div>
-    </div>
-
-    <!--PUBBLICITA-->
-    <div class="pubblicita" id="pubblicita-destra">
     </div>
     
-    <footer class="footer">
-        <div class="footer-pagine footer-dimesioni">
-            <h1>Tutte le pagine</h1>
-            <div>
-                <a href="index.html">Home</a>
-                <a href="/capo-comino/index.html">Capo Comino - S'ena E Sa Chitta</a>
-                <a href="/la-caletta/index.html">La caletta</a>
-                <a href="/santa-lucia/index.html">Santa Lucia</a>
-                <a href="/sa-petra-ruja/index.html">Sa Petra Ruja</a>
+    <!-- 100% [2] -->
+    <div class='page_home_two'>
+        <div class="elfsight-app-4f9b7ce8-56f1-472d-b0e7-0f70f62116db"></div>
+    </div>
+    
+    <!-- 100% [3] -->
+    <div class='page_home_tre'>
+        <video class="video_preset" autoplay loop muted>
+            <source src="vid/video2.mp4">
+        </video>
+        <div class='tre_s'>
+            <span class='testo_preset'>
+                <h1 class=testo_p>10 Pro Preset</h1>
+            </span>
+            <span class='tasto_download'>
+                <a class='tasto_d' href="">FREE DOWNLOAD</a>
+            </span>
+        </div>
+    </div>
+    
+    <div class='page_home_four'>
+        <div class='prima_parte'>
+            <div class='card'>
+                <div class='name'>
+                    <h1 class='name_text'>Luca <br>Mutzette</h1>
+                </div>
+                <div class='immagine_me'>
+                    <img class='imag_f' src="./img/profile.jpg" alt="">
+                </div>
             </div>
         </div>
-        <div class="footer-info footer-dimesioni">
-            <h1>About</h1>
-            <div>
-                <a href="">Contatti</a>
-                <a href="">Privacy Police</a>
-            </div>
-        </div>
-        <div class="copyrite footer-dimesioni"><span>Copyright &copy; 2022 All Rights Reserved by Luca Mutzette</span></div>
-    </footer>
+        <footer class='footer'>
+                <small>© Copyright 2021 -lucamutzette.com
+                -</small>
+        </footer>
+    </div>
 
-    <script>
-
-        let apri = function(){
-            document.getElementById('nav-off').style.display ='flex';
-        }
-
-        let chiudi = function(){
-            document.getElementById('nav-off').style.display ='none';
-        }
-    </script>
+    
+    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+    
+    
+    <script src="./js/index.js"></script>
 </body>
 </html>
