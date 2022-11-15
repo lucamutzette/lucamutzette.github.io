@@ -1,0 +1,81 @@
+[
+    {
+        "id" : 1,
+        "nome" : "Le residenze del mare",
+        "descrizione" : "Situato a La Caletta, a 650 metri dalla spiaggia della località, Le residenze del mare Affittacamere offre un giardino, un barbecue e una vista sulle montagne. A vostra disposizione una reception aperta 24 ore su 24, una cucina in comune e il WiFi gratuito in tutte le aree. In loco sono presenti anche camere familiari. Tutte le sistemazioni dispongono di aria condizionata, armadio, balcone con vista sul giardino, bagno privato, TV a schermo piatto, lenzuola e asciugamani. Alcune includono un frigorifero.",
+        "contatti" :{
+            "telefono" : "3491027337",
+            "mail": "nessuna mail disponibile",
+            "web": "",
+            "googleMapsLink": "https://www.google.it/maps/place/Le+residenze+del+mare/",
+            "bookingLink":"https://www.booking.com/hotel/it/le-residenze-del-mare-1.it.html"
+        },
+        "tipo":"Bed & Breakfast",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3029.087856726774!2d9.741689200000001!3d40.60588519999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dedd48edbde349%3A0x6647bb9e09b7719d!2sLe%20residenze%20del%20mare!5e0!3m2!1sit!2sit!4v1667396932631!5m2!1sit!2sit",
+        "immagini" : ["./dormire/1.webp"]
+    },
+
+    {
+        "id" : 2,
+        "nome" : "La terrazza",
+        "descrizione" : "Il b&b la terrazza si trova nella costa nord orientale della Sardegna, a circa 50 km dal porto e aeroporto più vicino. La struttura sorge nel centro del piccolo borgo di La Caletta di Siniscola a pochi metri da una delle più belle spiagge d'Italia. il B&B  La Terrazza pone a disposizione dei clienti tre camere con bagno privato dotate di tutti i confort ed ampie zone relax sia all'interno che all'esterno.",
+        "contatti" :{
+            "telefono" : "3289212374",
+            "mail": "laterrazzabnb@pec.it",
+            "web": "https://bnblaterrazzalacaletta.webnode.it/",
+            "googleMapsLink": "https://goo.gl/maps/ZfRo8wEAV5QvK2Q16",
+            "bookingLink":"https://www.booking.com/hotel/it/la-terrazza-siniscola.it.html"
+        },
+        "tipo":"Bed & Breakfast",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3029.011269623592!2d9.748087800000002!3d40.607575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dedc95288e5f75%3A0xa98a948047e2756d!2sB%26B%20la%20terrazza!5e0!3m2!1sit!2sit!4v1667397782027!5m2!1sit!2sit",
+        "immagini" : ["./dormire/2.webp"]
+    },
+
+    {
+        "id" : 3,
+        "nome" : "16 Miglia",
+        "descrizione" : "L'affitta camere 16 migliaia  di nuova realizzazione  è situato nella costa nord orientale sarda al centro del paese di  La Caletta  a due passi dal mare una frazione della città di Siniscola, nella Sardegna centro-orientale.",
+        "contatti" :{
+            "telefono" : "3469960460",
+            "mail": "nessuna mail disponibile",
+            "web": "http://www.16miglia.com/",
+            "googleMapsLink": "https://goo.gl/maps/grmPjM5USMsQ1E3L7",
+            "bookingLink":"https://www.booking.com/hotel/it/16miglia.it.html"
+        },
+        "tipo":"Bed & Breakfast",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.9354821472098!2d9.7470234!3d40.609247100000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12deddb0ce6f12ff%3A0x2d38eeba47dd9f2a!2s16Miglia%20Affittacamere!5e0!3m2!1sit!2sit!4v1667398104406!5m2!1sit!2sit",
+        "immagini": ["./dormire/3.webp"]
+    },
+
+    {
+        "id" : 4,
+        "nome" : "S'Arena Beach",
+        "descrizione" : "Situato a La Caletta, a 500 metri dalla spiaggia locale, l’Hotel S'arena Beach offre un ristorante, una piscina stagionale all’aperto, un parcheggio privato gratuito e un bar. La struttura mette a disposizione un salotto in comune, un giardino e una spiaggia privata. Avrete a disposizione una reception operativa 24 ore su 24 e il WiFi gratuito in tutte le aree.    Tutte le camere dell’hotel sono dotate di aria condizionata, scrivania, cassaforte, TV a schermo piatto, terrazza e bagno privato con bidet. Le sistemazioni includono inoltre un armadio.    L’Hotel s'Arena Beach serve una colazione continentale o a buffet.",
+        "contatti" :{
+            "telefono" : "07841910106",
+            "mail": "nessuna mail disponibile",
+            "web": "",
+            "googleMapsLink": "https://goo.gl/maps/VWJsHTNAdR38mpoG9",
+            "bookingLink":"https://www.booking.com/hotel/it/s-39-arena-beach-siniscola.it.html"
+        },
+        "tipo":"Hotel",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3029.3202442490738!2d9.746423300000002!3d40.60075750000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dedd65088e1b71%3A0x9651d6c5158b46cf!2sHotel%20S&#39;Arena%20Beach!5e0!3m2!1sit!2sit!4v1667398567030!5m2!1sit!2sit",
+        "immagini" : ["./dormire/4.webp"]
+    },
+
+    {
+        "id" : 5,
+        "nome" : "Il canarino",
+        "descrizione" : "Situato in una posizione ideale a La Caletta, a breve distanza dalla spiaggia di La Caletta, dalla spiaggia di San Giovanni e dalla spiaggia di Su Tiriarzu, Il Canarino affittacamere offre una vista sulla città, un ristorante e la connessione WiFi gratuita.    Gli alloggi dispongono di aria condizionata, terrazza, TV a schermo piatto e bagno privato con asciugacapelli e bidet.    Al mattino vi attende una colazione à la carte e all’italiana.",
+        "contatti" :{
+            "telefono" : "3776930139",
+            "mail": "nessuna mail disponibile",
+            "web": "",
+            "googleMapsLink": "https://goo.gl/maps/aa4qZNLqsL89jthv8",
+            "bookingLink":"https://www.booking.com/hotel/it/canarino.it.html"
+        },
+        "tipo":"Bed & Breakfast",
+        "mappa" :"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12116.35148129397!2d9.7252098!3d40.6058849!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12deddb2fcdb12d3%3A0x384e452d78cdb98b!2sIl%20Canarino%20affittacamere!5e0!3m2!1sit!2sit!4v1667399208418!5m2!1sit!2sit",
+        "immagini" : ["./dormire/5.webp"]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "id" : 1,
+        "nome" : "Domo e Mare",
+        "descrizione" : "La camera è attrezzata con condizionatore, minibar, cassaforte, smart Tv con canali satellitari e linea wifi. Gli infissi sono dotati di zanzariere. Nel bagno sono presenti doccia e bidè, asciugacapelli e kit di cortesia all’arrivo. Nel terrazzo è presente un salottino e, oltre al proprio giardinetto, la struttura è dotata di ampi e curati spazi esterni; in questi ultimi è possibile godere di una doccia esterna (anche calda), di un piccolo lavatoio e di un rubinetto lavapiedi. E’ presente il parcheggio interno. La spiaggia dista meno di 100 mt dalla struttura; è libera per la quasi totalità della baia di S’ena 'e sa chitta (oltre 4km, interessati dalla preziosa presenza del sistema dunale); è tuttavia presente all’ingresso della spiaggia un piccolo Stabilimento Balneare nel quale poter godere dei servizi di spiaggia, del noleggio di piccoli natanti e dell’area di ristoro.",
+        "contatti" :{
+            "telefono" : "+39 347 9373867",
+            "mail": "info@domoemare.com",
+            "web": "domoemare.com",
+            "googleMapsLink": "https://goo.gl/maps/y3hPmmmgCfX9nvnq8",
+            "bookingLink":"https://www.booking.com/hotel/it/domoemare.it.html"
+        },
+        "tipo":"Affittacamere",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2711.3220752333937!2d9.789109895783074!3d40.549117785170445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dedd2f746a2be9%3A0xceada542c81d76ea!2sDomo%20e%20Mare!5e0!3m2!1sit!2sit!4v1665682107894!5m2!1sit!2sit",
+        "immagini" : ["http://domoemare.com/wp-content/uploads/2022/07/Bagno-Conchiglie-768x1024-640x480.jpg", "http://domoemare.com/wp-content/uploads/2022/07/Bagno-Elicriso-768x1024-640x480.jpg", "http://domoemare.com/wp-content/uploads/2022/07/Bagno-Marea-575x1024-640x480.jpg", "http://domoemare.com/wp-content/uploads/2022/07/Camera-Conchiglie-1024x768-640x480.jpg" ,"http://domoemare.com/wp-content/uploads/2022/07/Camera-Elicriso-2-1-1024x841-640x480.jpg" ,"http://domoemare.com/wp-content/uploads/2022/07/Camera-Marea-3-575x1024-640x480.jpg" ,"http://domoemare.com/wp-content/uploads/2022/07/Camera-Marea-1024x575-640x480.jpg" ,"http://domoemare.com/wp-content/uploads/2022/07/Camera-Muriska-1024x768-640x480.jpg" ,"http://domoemare.com/wp-content/uploads/2022/07/Giardino-nord-1024x749-640x480.jpg" ,"http://domoemare.com/wp-content/uploads/2022/07/Giardino-notturno-sud-1024x663-640x480.jpg" ,"http://domoemare.com/wp-content/uploads/2022/07/Ingresso-via-delle-Azalee-2-1024x576-640x480.jpg" ,"http://domoemare.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-30-at-12.12.09-1024x768-640x480.jpeg"]
+    },
+
+    {
+        "id" : 2,
+        "nome" : "Maritesi",
+        "descrizione" : "Immerso tra l’azzurro e cristallino mare della costa nord orientale dell’isola e le suggestive dune di Capo Comino, il Maristesi è una deliziosa struttura che si affaccia sulla spiaggia di S’ena e sa Chitta. Pochi i km che ci distanziano da altre stupende località della costa Siniscolese, quali la paradisiaca Berchida con la sua immensa spiaggia di sabbia bianca, l’incantevole borgo di Santa Lucia e la sua torre del 1600, dalla quale si ha una visibilità di decine di chilometri fino a poter incrociare con lo sguardo Posada, la torre di San Giovanni, costruita subito dopo quella di Santa Lucia, e l’inconfondibile isola di Tavolara. Per gli amanti delle rocce, La Pineta di Mandras, a poche centinaia di metri dal Maristesi, offre la possibilità di godere di meravigliosi scogli e della poetica spiaggia dei confetti. Le rocce levigate dal vento e dal mare, fanno da cornice al vicino Faro di Capo Comino. Il monte Albo, massiccio calcareo con una cresta di ben 13 km la cui vetta massima è 1127 m/sm,è insieme alla Gola di Gorroppu, un’ottima alternativa per chi ama il trekking. Con guide esperte, è possibile effettuare un suggestivo percorso immerso nella natura più selvaggia.",
+        "contatti" :{
+            "telefono" : "+39 329 348 1942",
+            "mail": "info@maristesi.com",
+            "web": "maristesi.com",
+            "googleMapsLink": "https://goo.gl/maps/VHFjfQydeAqxfaUq7",
+            "bookingLink":"https://www.booking.com/hotel/it/maristesi-sinisiscola.it.html"
+        },
+        "tipo":"Affittacamere",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.6470421201507!2d9.787838214937494!3d40.5493864554855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dedd140e34a0e5%3A0xdef6525853be0e03!2sMARISTESI%20-%20SUITES%26ROOMS!5e0!3m2!1sit!2sit!4v1665767670447!5m2!1sit!2sit",
+        "immagini" : ["https://maristesi.com/wp-content/uploads/2022/06/Bagno-600x400.jpg" , "https://maristesi.com/wp-content/uploads/2022/06/MIG_2-600x401.jpg" , "https://maristesi.com/wp-content/uploads/2022/06/MIG_3-600x401.jpg" ,"https://maristesi.com/wp-content/uploads/2022/06/MIG_4-1-600x401.jpg" , "https://maristesi.com/wp-content/uploads/2022/06/MIG_12_2-600x401.jpg" , "https://maristesi.com/wp-content/uploads/2022/06/MIG_13-600x401.jpg" , "https://maristesi.com/wp-content/uploads/2022/06/MIG_13_2-600x401.jpg" , "https://maristesi.com/wp-content/uploads/2022/06/MIG_15-600x401.jpg" , "https://maristesi.com/wp-content/uploads/2022/06/MIG_32-600x401.jpg"]
+    },
+
+    {
+        "id" : 3,
+        "nome" : "L'artista",
+        "descrizione" : "Localita Capo Comino. Per altre info visitare i siti nei contatti: ",
+        "contatti" :{
+            "telefono" : "+393283698218",
+            "mail": "nessuna email disponibile",
+            "web": "",
+            "googleMapsLink": "https://goo.gl/maps/ujgiyDSRFVpQ9jD68",
+            "bookingLink":"https://www.booking.com/hotel/it/l-39-artista.it.html"
+        },
+        "tipo":"Affittacamere",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d757.9074185929979!2d9.790738!3d40.5497701!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dedda6688ebf07%3A0x6e4b4d86eaee4f61!2sBed%20and%20breakfast%20L%20&#39;artista!5e0!3m2!1sit!2sit!4v1667668876076!5m2!1sit!2sit",
+        "immagini": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/337426855.jpg?k=6d5960d64f172ec3d10c3542f09e7ed1293689f9b9e835338ad98ba4f5ea1313&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205695732.jpg?k=c379d9305a02db26832f0f4b4b3af8dd76c69cbf8e0775f426c63c47c912971a&o=&hp=1" ,"https://cf.bstatic.com/xdata/images/hotel/max1024x768/205695154.jpg?k=13e62cbbb5623699082550dcecf2cef95c8a7b3463bbe0062cc88cca74b6fab9&o=&hp=1" ,"https://cf.bstatic.com/xdata/images/hotel/max1024x768/144272275.jpg?k=c43d6fb1105dda11a26b6a0f2888d1183ab221dfb323d4189a0972bbc5e3080d&o=&hp=1"]
+    },
+
+    {
+        "id" : 4,
+        "nome" : "Far'Orientale",
+        "descrizione" : "La Locanda FarOrientale offre servizio B&B e Ristorazione vicinissimo alla spiaggia. Le  camere,  dove  offriamo  ospitalità,  sono  situate  al  primo  piano  della  casa  e  sono  dotate  di  tutti  i  comfort per una vacanza all’insegna del vero relax. Dall’Estate  2017  potrete  usufruire  anche  del  Servizio  Ristorazione.    Nella  Sala  Ristorante,  situato  al piano terra della casa, viene servita anche la Colazione.  La  Locanda  Ci  troviamo  nella  punta  estrema  della  costa  est  della  Sardegna,  all’interno  del  Villaggio Turistico di S’Ena e sa Chitta - Capo Comino - Siniscola (NU) lungo l’Orientale Sarda.Il  Villaggio,  composto  per  lo  più  da  ville  con  giardino,  costeggia  per  un  breve  tratto,  la    splendida spiaggia  di  sabbia  bianca  e  il  mare  cristallino  da  cui  è  possibile  ammirare  le  famose  Dune  di  Capo Comino.  Da  qui  è  possibile  perdersi  con  la  fantasia  alla  vista  di  un  panorama  incantevole  e  di  scorci naturalistici più al belli al mondo.Nei  dintorni,  meritano  una  visita  altre  splendide  e  rinomate  spiagge,  quali  La  Caletta-  Santa  Lucia, Berchida-Bidderosa e le varie calette che è possibile scoprire lungo l’esteso litorale siniscolese.  Punto di partenza ideale per passeggiate in spiaggia e in pineta.Il  nostro  territorio  offre  la  possibilità  di  vivere  il  mare  in  tutta  tranquillità  e  l’opportunità  di  potersi concedere dei momenti alternativi all’insegna della tradizione, della cultura e dello sport.",
+        "contatti" :{
+            "telefono" : "+39 339 3032107",
+            "mail": "ilfarorientale@gmail.com",
+            "web": "bbfarorientale.it",
+            "googleMapsLink": "https://g.page/camerelocandaFarorientale?share",
+            "bookingLink":"https://www.booking.com/hotel/it/farorientale-b-amp-b.it.html"
+        },
+        "tipo":"Affittacamere",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.5491365190005!2d9.790170999999999!3d40.551549099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12deddf2c939739d%3A0xe0a1fe09b5ad980b!2sAffittacamere%20B%26B%20Locanda%20FarOrientale!5e0!3m2!1sit!2sit!4v1667669083277!5m2!1sit!2sit",
+        "immagini" : ["http://www.bbfarorientale.it/index_htm_files/645.jpg", "http://www.bbfarorientale.it/index_htm_files/642.jpg", "http://www.bbfarorientale.it/index_htm_files/642.jpg"]
+    },
+
+    {
+        "id" : 5,
+        "nome" : "Calapineta",
+        "descrizione" : "Localita Capo Comino. Per altre info visitare i siti nei contatti:",
+        "contatti" :{
+            "telefono" : "+39 338 3564002",
+            "mail": "info@calapineta.it",
+            "web": "calapineta.it",
+            "googleMapsLink": "https://goo.gl/maps/ZwBVZaPwKEQPg89N9",
+            "bookingLink":"https://www.booking.com/hotel/it/villaggio-camping-calapineta.it.html"
+        },
+        "tipo":"Camping",
+        "mappa" :"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.7285215455204!2d9.782927315400595!3d40.56967197934759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12deddb944b361e9%3A0x89e5733ace0e7f68!2sVillaggio%20Camping%20Calapineta!5e0!3m2!1sit!2sit!4v1665772633049!5m2!1sit!2sit",
+        "immagini" : ["./dormire/5.webp"]
+    },
+
+    {
+        "id" : 6,
+        "nome" : "I Gelsomini",
+        "descrizione" : "Localita Capo Comino. Per altre info visitare i siti nei contatti:",
+        "contatti" :{
+            "telefono" : "+39 3398366498",
+            "mail": "nessuna mail disponibile",
+            "web": "m.bb30.it/str.asp?id=4770",
+            "googleMapsLink": "https://goo.gl/maps/P6k6hNnbcoiuxGJv6",
+            "bookingLink":""
+        },
+        "tipo":"Affittacamere",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.797002704849!2d9.783052615399873!3d40.546073779350266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12deddc5025dbead%3A0x98b09ecb6efe7314!2sBed%26Breakfast%20%22I%20Gelsomini%22!5e0!3m2!1sit!2sit!4v1665773983631!5m2!1sit!2sit",
+        "immagini" : ["./dormire/6.webp"]
+    },
+
+    {
+        "id" : 7,
+        "nome" : "Su Pinnatu",
+        "descrizione" : "Su pinnatu, (antica capanna dei pastori), è un agriturismo a gestione familiare dotato di 6 posti letto. Realizzato all’interno di un vasto podere che confina con la strada Statale Orientale - Sarda, si trova a circa tre minuti, (in auto), dalla spiaggia di Capo Comino, ritenuta una delle più belle della Sardegna.",
+        "contatti" :{
+            "telefono" : "+39 3339492329",
+            "mail": "info@supinnatu.it",
+            "web": "www.supinnatu.it",
+            "googleMapsLink": "https://goo.gl/maps/aWGaQwJzZGyZvHzU7",
+            "bookingLink":"https://www.booking.com/hotel/it/agriturismo-su-pinnatu.it.html"
+        },
+        "tipo":"Agriturismo",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.01799513958!2d9.7820785153997!3d40.54119157935075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12deddbfd0f1bf49%3A0xbde933e7858bee14!2sAgriturismo%20Su%20Pinnatu!5e0!3m2!1sit!2sit!4v1665774847099!5m2!1sit!2sit",
+        "immagini" : ["./dormire/7.webp"]
+    },
+
+
+    {
+        "id" : 8,
+        "nome" : "Silitta",
+        "descrizione" : "Agriturismo silitta un azienda agrituristica situata a capo comino immersa nel verde, da noi potete godere di una vacanza di pace e tranquillità lontani dalla città.. siamo a 400mt dal mare (le dune di capo comino)  potete gustare i prodotti tipici della nostra azienda vi aspettiamo ",
+        "contatti" :{
+            "telefono" : "+39 340 908 5481",
+            "mail": "nessuna mail disponibile",
+            "web": "agriturismo-silitta.business.site",
+            "googleMapsLink": "https://goo.gl/maps/NNAWAt5ewVRQFqBLA",
+            "bookingLink":""
+        },
+        "tipo":"Agriturismo",
+        "mappa" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.368765768007!2d9.798273317443847!3d40.53344130000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dee76178fe9357%3A0xd7610d88b6b23711!2sAgriturismo%20Silitta!5e0!3m2!1sit!2sit!4v1665775028857!5m2!1sit!2sit",
+        "immagini" : ["./dormire/8.webp"]
+    }
+]

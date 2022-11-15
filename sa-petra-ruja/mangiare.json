@@ -1,0 +1,23 @@
+﻿[
+        {
+            "id": "1",
+            "nome": "Karamàre",
+            "tipo": "Ristorante",
+            "link": "https://goo.gl/maps/kQYvKmLssFFnSvBA6",
+            "immagini" : ["./mangiare/ristorante-sa-petra-ruja-1.webp"]
+        },
+        {
+            "id": "2",
+            "nome": "La fontanella",
+            "tipo": "Pizzeria",
+            "link": "https://goo.gl/maps/9bc7jEquoCQ9gYNy9",
+            "immagini" : ["./mangiare/ristorante-sa-petra-ruja-2.webp"]
+        },
+        {
+            "id": "3",
+            "nome": "La Corona di Ichnos",
+            "tipo": "Ristorante",
+            "link": "https://goo.gl/maps/TvJazwkgmoC5Gwh19",
+            "immagini" : ["./mangiare/ristorante-sa-petra-ruja-3.webp"]
+        }
+    ]
