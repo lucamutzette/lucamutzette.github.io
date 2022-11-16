@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "nome" : "Isola Rossa",
+        "tipo" : "Bar - Stabilimento",
+        "link" : "https://lisolarossa.it/",
+        "immagini" : ["./mangiare/ristorante-capo-comino-1.webp"]
+    },
+
+    {
+        "id" : 2,
+        "nome" : "Comino Rosso Bar",
+        "tipo" : "Bar",
+        "link" : "https://www.google.com/maps/place/Bar+Gastronomia+Comino+Rosso/@40.547686,9.7809665,17z/data=!3m1!4b1!4m5!3m4!1s0x12dee75da93a597b:0xe8633e74c10c55a!8m2!3d40.547682!4d9.7851937",
+        "immagini" : ["./mangiare/ristorante-capo-comino-2.webp"]
+    },
+
+    {
+        "id" : 3,
+        "nome" : "Chiosco Le Saline",
+        "tipo" : "Bar",
+        "link" : "https://www.google.com/maps/place/Chiosco+Le+Saline/@40.5416674,9.7943594,17z/data=!3m1!4b1!4m5!3m4!1s0x12dee72a046adfad:0x22053941832ac80b!8m2!3d40.5416674!4d9.7965481",
+        "immagini": ["./mangiare/ristorante-capo-comino-3.webp"]
+    },
+
+    {
+        "id" : 4,
+        "nome" : "Capo Est",
+        "tipo" : "Bar - Stabilimento",
+        "link" : "https://www.capoestsardegna.it/",
+        "immagini" : ["./mangiare/ristorante-capo-comino-4.webp"]
+    },
+
+    {
+        "id" : 5,
+        "nome" : "Comino Rosso Ristorante",
+        "tipo" : "Ristorante - Pizzeria",
+        "link" : "https://www.google.com/maps?q=comino+rosso+ristorante&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjsg5WDjYr7AhUDgP0HHScmBokQ_AUoAXoECAMQAw",
+        "immagini" : ["./mangiare/ristorante-capo-comino-5.webp"]
+    },
+
+    {
+        "id" : 6,
+        "nome" : "Il Moletto",
+        "tipo" : "Ristorante - Sushi",
+        "link" : "http://il-moletto.it/",
+        "immagini" : ["./mangiare/ristorante-capo-comino-6.webp"]
+    },
+
+    {
+        "id" : 7,
+        "nome" : "Silitta",
+        "tipo" : "Agriturismo",
+        "link" : "https://www.google.com/maps?q=silitta&um=1&ie=UTF-8&sa=X&ved=2ahUKEwid9v6XjYr7AhXlif0HHXkkDTQQ_AUoAXoECAIQAw",
+        "immagini" : ["./mangiare/ristorante-capo-comino-7.webp"]
+    },
+
+
+    {
+        "id" : 8,
+        "nome" : "Far'Orientale",
+        "tipo" : "Ristorante",
+        "link" : "https://www.google.com/maps/place/Affittacamere+B%26B+Locanda+FarOrientale/@40.5515532,9.7879823,17z/data=!3m1!4b1!4m5!3m4!1s0x12deddf2c939739d:0xe0a1fe09b5ad980b!8m2!3d40.5515588!4d9.7901732",
+        "immagini" : ["./mangiare/ristorante-capo-comino-8.webp"]
+    },
+
+    {
+        "id" : 9,
+        "nome" : "Sos'Appentos",
+        "tipo" : "Ristorante",
+        "link" : "https://www.google.com/maps/place/Ristorante+Sos+Appentos/@40.5563329,9.7851127,17z/data=!3m1!4b1!4m5!3m4!1s0x12dedd15b0c816b5:0x26a07baee2873084!8m2!3d40.5563286!4d9.7873014",
+        "immagini" : ["./mangiare/ristorante-capo-comino-9.webp"]
+    }
+]

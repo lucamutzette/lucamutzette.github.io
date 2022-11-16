@@ -1,0 +1,44 @@
+﻿[
+        {
+            "id": "1",
+            "nome": "Selema",
+            "tipo": "Bar Ristorante Pizzeria",
+            "link": "https://goo.gl/maps/vkQoLU9rWfKBNaUG7",
+            "immagini" : ["./mangiare/ristorante-santa-lucia-1.webp"]
+        },
+        {
+            "id": "2",
+            "nome": "Zia Luchia",
+            "tipo": "Ristorante",
+            "link": "https://goo.gl/maps/DCEza72BMKgXpqPW9",
+            "immagini" : ["./mangiare/ristorante-santa-lucia-2.webp"]
+        },
+        {
+            "id": "3",
+            "nome": "Trattoria La Torre",
+            "tipo": "Ristorante di Pesce",
+            "link": "https://g.page/BarLaTorreSantaLucia?share",
+            "immagini" : ["./mangiare/ristorante-santa-lucia-3.webp"]
+        },
+        {
+            "id": "4",
+            "nome": "Poseidon",
+            "tipo": "Pizzeria",
+            "link": "https://goo.gl/maps/wPxrbUXqY54BE1i4A",
+            "immagini" : ["./mangiare/ristorante-santa-lucia-4.webp"]
+        },
+        {
+            "id": "5",
+            "nome": "Mamma Mia ",
+            "tipo": "Trattoria",
+            "link": "https://goo.gl/maps/fu7YJCxdBHNAM92XA",
+            "immagini" : ["./mangiare/ristorante-santa-lucia-5.webp"]
+        },
+        {
+            "id": "6",
+            "nome": "La Spiaggia Delle Barche",
+            "tipo": "Pizzeria Ristorante Gelateria",
+            "link": "https://goo.gl/maps/Npgz87ubQDJ7zeRv7",
+            "immagini" : ["./mangiare/ristorante-santa-lucia-6.webp"]
+        }
+    ]
