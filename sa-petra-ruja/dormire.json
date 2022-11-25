@@ -1,0 +1,62 @@
+﻿[
+        {
+            "id": "1",
+            "nome": "Casa Maria Sa Petra Ruja",
+            "tipo": "Appartamento",
+            "mappa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12120.6339222291!2d9.74903047084808!3d40.582257115222475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dedddd1ec514a7%3A0xeaa7de6f1e29d7fd!2sCasa%20Maria%20Sa%20Petra%20Ruja!5e0!3m2!1sit!2sit!4v1667485416241!5m2!1sit!2sit",
+            "descrizione": "Situata a Siniscola, vicino alla spiaggia di La Caletta e a 2,9 km dalla spiaggia di Santa Lucia, la Casa Maria offre una terrazza con vista sul giardino, un giardino e un barbecue. 4,3 km da La Caletta e 5 km da San Giovanni.    Questo appartamento climatizzato presenta 1 camera da letto, una TV a schermo piatto e una cucina con minibar.    L'appartamento dista 43 km dall'Isola di Tavolara e 2,8 km da Santa Lucia. 53 km dall'Aeroporto di Olbia-Costa Smeralda, lo scalo più vicino.  ",
+            "contatti":{
+                "telefono": "3409959281",
+                "mail": "nessuna mail",
+                "web": "",
+                "googleMapsLink": "https://goo.gl/maps/uuDtGmCz2JZscEBm8",
+                "bookingLink": "https://www.booking.com/hotel/it/casa-maria-siniscola.it.html"
+            },
+            "immagini" : ["./dormire/1.webp"]
+        },
+        {
+            "id": "2",
+            "nome": "sa petra ruja vacanze",
+            "tipo": "Appartamento",
+            "mappa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6060.270451812835!2d9.757227301033184!3d40.58277045354347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dedd623b78a7b5%3A0x6ac48b8481852b8e!2ssa%20petra%20ruja%20vacanze!5e0!3m2!1sit!2sit!4v1667486144564!5m2!1sit!2sit",
+            "descrizione": "Sa Petra Ruja è una località situata nel comune di Siniscola (NU) tra La Caletta e Santa Lucia, lungo la costa Nord-Orientale della Sardegna.    Deve la sua fama alla lunga spiaggia di sabbia chiara e fine alle cui spalle si trovano alte dune che conducono ad una pineta verde e rigogliosa che si estende parallelamente alla costa. L’ampia spiaggia e l’acqua cristallina con fondali che degradano dolcemente verso il largo fanno di Sa Petra Ruja una località di vacanza adatta soprattutto a famiglie e bambini che possono muoversi in assoluta libertà e sicurezza.    In questo magnifico contesto si trova la residenza Sa Petra Ruja Vacanze: un appartamento panoramico all’ultimo piano di un villino, distante appena 200 metri dalla pineta e 300 metri dalla spiaggia con parcheggio all’aperto di fronte casa.   L’appartamento si trova al primo e ultimo piano di un villino e dista 200 metri dalla pineta e 300 metri dalla spiaggia.    Nel 2018 è stato completamente ristrutturato con materiali di pregio e arredi nuovi. E’ composto da soggiorno, cucina, terrazzo arredato con tavolo e sedie per mangiare all’aperto con vista sul mare, due camere da letto matrimoniali per un totale di 4 posti letto, un bagno con doccia. Tramite una scala esterna si accede a un fantastico solarium con vista a 360° sul mare, la pineta e le montagne dell’interno.    TV LCD, decoder TvSat, lavatrice, ventilatori a soffitto in ogni ambiente, zanzariere, stoviglie, BBQ.    La spiaggia è raggiungibile a piedi in 5 minuti. Di fronte casa la spiaggia è in parte libera e in parte attrezzata con ombrelloni e lettini. Nelle immediate vicinanze possibilità di praticare tutti gli sport acquatici (canoa, pedalò, derive, catamarani, windsurf, kitesurf) con noleggio attrezzature e corsi. Al porto di La Caletta (2 km) possibilità di noleggio gommoni ed escursioni collettive in barca verso le isole di Tavolara e Molara e il golfo di Cala Gonone con le magnifiche spiagge di Cala Luna, Cala Girgolu, Cala Mariolu, Cala Goloritzè, Cala Sisine.    Su richiesta dei nostri ospiti possiamo effettuare servizio taxi a pagamento da e per l’aeroporto di Olbia ed il porto di Olbia.",
+            "contatti":{
+                "telefono": "360 606779",
+                "mail": "nessuna mail",
+                "web": "http://www.sapetrarujavacanze.it/",
+                "googleMapsLink": "https://goo.gl/maps/iMfWeRhp71VTwfDb7",
+                "bookingLink": "https://www.booking.com/hotel/it/sa-petra-ruja-vacanze.it.html"
+            },
+            "immagini" : ["./dormire/2.webp"]
+        },
+        {
+            "id": "3",
+            "nome": "Villa Mercedes",
+            "tipo": "Bed & Breakfast",
+            "mappa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1990.4848584575668!2d9.760026388531264!3d40.583341793306545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5a0d6c1b738dfe7e!2sB%26B%20Villa%20Mercedes!5e0!3m2!1sit!2sit!4v1667487176583!5m2!1sit!2sit",
+            "descrizione": "Situato a Siniscola, il B&B Villa Mercedes di Siniscola offre camere, una vista sul lago, un bar, una sala in comune, un giardino e una terrazza. Il bed & breakfast propone gratuitamente la connessione WiFi e un parcheggio privato.    Tutte le sistemazioni presentano un bagno privato con bidet, asciugacapelli e set di cortesia.    Presso il B&B Villa Mercedes potrete gustare al mattino una colazione continentale o all’italiana.    Il bed & breakfast dista 550 metri dalla Spiaggia della Caletta e 1,4 km dalla Spiaggia di Santa Lucia. A 52 km dal B&B Villa Mercedes troverete l’Aeroporto di Olbia-Costa Smeralda, lo scalo più vicino.    Le coppie apprezzano molto la posizione: l'hanno valutata 8,5 per un viaggio a due.",
+            "contatti":{
+                "telefono": "3337639214",
+                "mail": "nessuna mail",
+                "web": "http://www.bedandbreakfastvillamercedes.it/home.html",
+                "googleMapsLink": "https://goo.gl/maps/z6MnDmiEcaNbLZrL9",
+                "bookingLink": "https://www.booking.com/hotel/it/b-amp-b-villa-mercedes.it.html"
+            },
+            "immagini" : ["./dormire/3.webp"]
+        },
+        {
+            "id": "4",
+            "nome": "Villa Carta",
+            "tipo": "Casa",
+            "mappa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2505.4143236080845!2d9.761872663825521!3d40.58199411618754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12dedd2a1e68240b%3A0x3da00797d1862f12!2sVilla%20Carta%20-%20Case%20Vacanze%20Sardegna!5e1!3m2!1sit!2sit!4v1667488956113!5m2!1sit!2sit",
+            "descrizione": "Situata in una zona incantevole a Santa Lucia, a breve distanza dalle spiagge di La Caletta, di Santa Lucia e dei Confetti, la Villa Carta - A due passi dal mare offre la vista sul giardino e un giardino.    Tutte le unità abitative sono dotate di balcone, cucina completamente attrezzata con frigorifero, area salotto, TV a schermo piatto, lavatrice e bagno privato con bidet.    Potrete inoltre rilassarvi sulla terrazza.    L’aeroporto più vicino è quello di Olbia Costa Smeralda, a 41 km dalla Villa Carta - A due passi dal mare.",
+            "contatti":{
+                "telefono": "3388916990",
+                "mail": "nessuna mail",
+                "web": "",
+                "googleMapsLink": "https://goo.gl/maps/t2fmvZEuCtRkBZkq9",
+                "bookingLink": "https://www.booking.com/hotel/it/villa-carta-a-due-passi-dal-mare.it.html"
+            },
+            "immagini" : ["./dormire/4.webp"]
+        }
+    ]

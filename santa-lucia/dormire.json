@@ -1,0 +1,48 @@
+﻿[
+        {
+            "id": "1",
+            "nome": "Il faro di mary",
+            "tipo": "Bed & Breakfast",
+            "mappa": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d757.5492590613496!2d9.777207!3d40.581406!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8d17e5d586bbb3bc!2sIl%20Faro%20di%20Mary%20-%20Bed%20%26%20Breakfast!5e0!3m2!1sit!2sit!4v1667399967483!5m2!1sit!2sit",
+            "descrizione": "Il Bed & Breakfast Il Faro di Mary é situato sulla costa orientale Sarda, nel suggestivo e tranquillo borgo di Santa Lucia, nato intorno all’omonima chiesetta e alla torre Aragonese del XVI secolo, circondato da spiaggia, calette pescose e pinete.    Il B&B dista 50 metri dalla vicina spiaggia.    Totalmente ristrutturato nella primavera del 2017 offre tre camere da letto dotate di bagno privato con phon e prodotti cortesia.    Wi-Fi gratuito in tutta la struttura, Smart TV Satellitare, cassaforte e aria condizionata.",
+            "contatti":{
+                "telefono": "3335227975",
+                "mail": "ilfarodimary@gmail.com",
+                "web": "https://www.ilfarodimary.com/",
+                "googleMapsLink": "https://g.page/ilFarodiMary?share",
+                "bookingLink": ""
+            },
+            "immagini" : ["./dormire/1.webp"]
+        },
+        {
+            "id": "2",
+            "nome": "Villaggio - Camping La Mandragola",
+            "tipo": "Camping",
+            "mappa": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12121.090380145708!2d9.7750995!3d40.579738!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1f03e99eabc493ef!2sVillaggio%20-%20Camping%20La%20Mandragola!5e0!3m2!1sit!2sit!4v1667400701042!5m2!1sit!2sit",
+            "descrizione": "Situato in una pineta di oltre 5 ettari, accanto all’incantevole villaggio di pescatori di Santa Lucia, il Camping La Mandragola vanta una posizione invidiabile grazie all’accesso diretto a 12 km di spiaggia.    All’interno del villaggio, tutto è progettato affinché gli ospiti possano godere di questo angolo di paradiso naturale. Un villaggio che vi regalerà tante occasioni di divertimento per rendere la vostra vacanza rilassante e spensierata!    Scopri tutti i servizi che il Camping La Mandragola mette a disposizione per i suoi ospiti: ristorante e pizzeria, market, chiosco sulla spiaggia, animazione, kitesurf e molto altro.",
+            "contatti":{
+                "telefono": "784819146",
+                "mail": "info@villaggiomandragola.com",
+                "web": "http://www.villaggiomandragola.com/",
+                "googleMapsLink": "https://goo.gl/maps/J2SADBb3XQaJZco38",
+                "bookingLink": ""
+            },
+            "immagini" : ["./dormire/2.webp"]
+        },
+        {
+            "id": "3",
+            "nome": "Camping Selema",
+            "tipo": "Camping",
+            "mappa": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12121.090380145708!2d9.7750995!3d40.579738!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12deddad9bfc3051%3A0x5ca4f9bcce3e510f!2sCamping%20Selema!5e0!3m2!1sit!2sit!4v1667401162970!5m2!1sit!2sit",
+            "descrizione": "Camping Selema si estende all’ombra di una splendida pineta con accesso diretto al mare, lungo la famosa spiaggia di Santa Lucia in Sardegna. Mezz’ora di auto dal porto di Olbia e pochi minuti a piedi dal piccolo e antico borgo di pescatori presso Siniscola dove ci attende una spiaggia magnifica, ampia e bianchissima.",
+            "contatti":{
+                "telefono": "3428149801",
+                "mail": "info@selemacamping.com",
+                "web": "http://www.selemacamping.com/chi-siamo/",
+                "googleMapsLink": "https://goo.gl/maps/KPoT4iBRQMg3d85P9",
+                "bookingLink": ""
+            },
+            "immagini" : ["./dormire/3.webp"]
+        }
+        
+    ]

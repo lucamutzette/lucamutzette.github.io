@@ -1,0 +1,41 @@
+[
+    {
+        "id" : 1,
+        "nome" : "Karamàre",
+        "tipo" : "Ristorante",
+        "link" : "https://goo.gl/maps/kQYvKmLssFFnSvBA6",
+        "immagini" : ["./mangiare/ristorante-la-caletta-1.webp"]
+    },
+
+    {
+        "id" : 2,
+        "nome" : "El BArrio del Mar",
+        "tipo" : "Bar Stabilimento",
+        "link" : "https://goo.gl/maps/jgMDA8CL4q23AgkD7",
+        "immagini" : ["./mangiare/ristorante-la-caletta-2.webp"]
+    },
+
+    {
+        "id" : 3,
+        "nome" : "Il Capriccio",
+        "tipo" : "Ristorante Pizzeria",
+        "link" : "https://goo.gl/maps/2Rjrm6j7WhEtq6rq7",
+        "immagini": ["./mangiare/ristorante-la-caletta-3.webp"]
+    },
+
+    {
+        "id" : 4,
+        "nome" : "Oceania",
+        "tipo" : "Cocktail Bar Gelateria",
+        "link" : "https://goo.gl/maps/5K8mnw8pZDPTMo289",
+        "immagini" : ["./mangiare/ristorante-la-caletta-4.webp"]
+    },
+
+    {
+        "id" : 5,
+        "nome" : "Pizzeria Da Bastiano",
+        "tipo" : "Pizzeria",
+        "link" : "https://goo.gl/maps/2GUuaLsNQ3vKdjbYA",
+        "immagini" : ["./mangiare/ristorante-la-caletta-5.webp"]
+    }
+]

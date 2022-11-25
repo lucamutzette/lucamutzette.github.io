@@ -1,0 +1,598 @@
+:root {
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+}
+body{
+    margin: 0;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+#main{
+    position: relative;
+    left: 8%;
+    width: 82%;
+    margin-bottom: 10%;
+}
+
+.spiagge-menu {
+    position: relative;
+    left: 8%;
+    width: 92%;
+    top: 0;
+    min-height: 50px;
+    z-index: 102;
+    display: flex  ;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.tutte-le-spiagge-indietro{
+    height: 50px;
+    width: 92%;
+    position: relative;
+    left: 8%;
+    align-items: center;
+    justify-content: center;
+    background-color: #007bff;
+    display: flex;
+    /*top: 0;
+    z-index: 109;*/
+}
+
+.tutte-le-spiagge-indietro a{
+    color: white;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+
+}
+
+#spiaggia-ora{
+    color: #007bff;
+}
+
+#spiaggia-ora:hover{
+    color: white;
+}
+
+
+#list-example{
+    position: fixed;
+    width: 8%;
+    left: 0;
+    height: 100%;
+    display: flex;
+    z-index: 103;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #ffffff;
+}
+
+
+.link-menu-spiaggia{
+    text-decoration: none;
+    color: black;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+}
+
+.link-menu-spiaggia:hover{
+    font-size: 130%;
+    font-weight: bolder;
+    text-decoration: none;
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 0.5% 1%;
+    border-radius: 10px;
+}
+
+.text-h6-nav{
+    margin: 0!important;
+}
+
+
+.page-1{
+    position: relative;
+    width: 100%;
+    height: 70vh;
+    background-color: black;
+    left: 0;
+    z-index: 101;
+}
+
+.blocco-testo {
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    height: 100%;
+    z-index: 98;
+}
+
+.title-web-site {
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    top: 25%;
+    z-index: 99;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.titolo{
+    font-size: 275%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+
+.blocco_scroll{
+    position: absolute;
+    width: 100%;
+    bottom: 5%;
+    height: auto;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+}
+
+.freccia.animate__animated {
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+.page-gallery{
+    position: relative;
+    width: 95%;
+    height: 80vh;
+    margin-top: 3%;
+}
+
+
+.page-gallery h1{
+    width: 100%;
+    position: relative;
+}
+
+#img-home-1{
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    z-index: 97;
+    opacity: 40%;
+}
+
+
+#mappe-imag{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#maps{
+    width: 49%;
+    position: relative;
+    min-height: 300px;
+
+}
+
+#maps iframe{
+    height: 100%;
+    width: 100%;
+}
+
+#dove-si-trova{
+    height: 100%;
+    width: 49%;
+    text-align: justify;
+}
+
+
+
+
+@media (max-width: 850px) {
+    #mappe-imag{
+        flex-direction: column;
+    }
+    #maps{
+        width: 100%;
+        height: 300px;
+    }
+    #dove-si-trova{
+        width: 100%;
+    }
+
+    .tutte-le-spiagge-indietro{
+        width: 100%;
+        left: 0;
+    }
+}
+
+.page-2{
+    margin-top: 3%;
+    /*padding-left: 5%;*/
+    padding-right: 5%;
+}
+
+
+.name-page{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name-page p a img{
+    width: 100px;
+}
+
+.name-page p{
+    margin-bottom: 0;
+}
+
+.name-page p a img:hover{
+    width: 110px;
+}
+
+.titolo-pagina{
+    font-size: 2.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.padding-layer{
+    width: 90%;
+    padding-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    padding-left: 3%;
+    margin-bottom: 40px;
+}
+
+.oggetto{
+    width: 30%;
+    min-width: 250px;
+    height: 375px;
+    margin-bottom: 2%;
+    position: relative;
+    background-color: rgb(255 255 255);
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+.oggetto-s{
+    min-width: 300px;
+    width: 45%;
+    height: 325px;
+
+}
+
+.oggetto-s > .img-ogg-s{
+    height: 250px;
+}
+
+.img-ogg-s{
+    height: 200px;
+    position: relative;
+    width: 100%;
+}
+
+.img-oggetto{
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+
+.text-oggetto-s{
+    position: relative;
+    width: 96%;
+    height: 75px;
+    display: flex;
+    padding: 0 2%;
+    align-items: center;
+
+}
+
+
+.text-oggetto{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 4%;
+}
+
+.text-oggetto h1{
+    color: #383838;
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+    font-size: 150%;
+    margin-bottom: 5px;
+}
+
+.text-oggetto h4{
+    color: #383838;
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400;
+    margin-top: -5%;
+
+}
+
+.oggetto-tasto{
+    width: 90%;
+    height: 75px;
+    position: relative;
+    left: 5%;
+}
+
+.oggetto-tasto-padding{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.oggetto-tasto-padding button{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
+
+.oggetto-tasto-padding button:hover{
+    background-color: #0052aa;
+}
+
+
+.oggetto-tasto-padding button h6{
+    font-size:20px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-family: 'Cairo', sans-serif;
+}
+
+.oggetto-tasto-padding a{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
+
+.oggetto-tasto-padding a:hover{
+    background-color: #0052aa;
+    color: white;
+    text-decoration: none;
+}
+
+
+.oggetto-tasto-padding a h6{
+    font-size:20px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-family: 'Cairo', sans-serif;
+}
+
+.link-apri-tutto{
+    width: 100%;
+    display: flex;
+    height: 5px;
+}
+
+.link-apri-tutto a{
+    font-size: 17px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+
+.link-apri-tutto a:hover{
+    font-size: 18px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.color-svg-a{
+    stroke: white;
+}
+
+
+.pubblicita-orizzontale{
+    width: 90%;
+    height: 20vh;
+    background-color: #999999;
+    margin-left: 2.5%;
+    margin-top: 2%;
+}
+
+@media (max-width: 1100px) {
+    .oggetto{
+        min-width: 200;
+        width: 45%;
+    }
+}
+
+
+@media (max-width: 1250px) {
+    .padding-layer{
+        justify-content: space-around;
+    }
+}
+
+
+
+#carouselExampleIndicators{
+    width: 100%;
+    height: 70vh;
+}
+
+.carousel-inner{
+    height: 70vh;
+}
+
+.d-block{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-item{
+    height: 70vh;
+}
+
+.list-group-item.active>svg>.rect2{
+    stroke-width: 28;
+    stroke: #ffffff;
+}
+
+.list-group-item.active>svg{
+    width: 40px;
+    height: 40px;
+}
+
+.list-group-item{
+    display: flex;
+    border: none!important;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 15px;
+    padding: 5px 15px;
+    font-weight: 100;
+
+}
+
+.list-group-item.active{
+    font-weight: 800px;
+}
+
+
+@media (max-width: 850px) {
+
+
+    .pubblicita-orizzontale{
+        width: 89%;
+        margin-left: 5%;
+    }
+
+
+    #list-example{
+        width: 100%;
+        height: 75px;
+        flex-direction: row;
+        bottom: 0;
+        background-color: #ffffff;
+    }
+
+    #main{
+        width: 100%;
+        left: 0;
+    }
+
+    .page-2{
+        padding-right: 2%;
+        padding-left: 2%;
+        margin-top: 10%;
+    }
+
+
+    .list-group-item{
+        width: 14%;
+        border-radius: 5px;
+        padding: 1px;
+    }
+
+    .list-group-item svg{
+        height: 20px;
+    }
+
+    .list-group-item.active svg{
+        height: 25px;
+    }
+
+    .padding-layer{
+        display: flex;
+        justify-content: space-evenly;
+        width: 96%;
+        padding-left: 2%;
+    }
+
+    .name-page{
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: 25px;
+    }
+
+    .titolo-pagina{
+        text-align: center;
+    }
+
+    .page-gallery{
+        width: 96%;
+        left: 2%;
+    }
+
+}
+
+
+@media (max-width: 550px) {
+    .oggetto{
+        width: 90%;
+        min-width: none;
+    }
+
+    #dove-si-trova p{
+        font-size: 12px;
+    }
+
+    .link-apri-tutto{
+        margin-top: 15px;
+        justify-content: center;
+    }
+
+    .fmobile{
+        width: 100px;
+    }
+}
+
+@media (max-width: 850px) {
+    .spiagge-menu{
+        display: none;
+    }
+
+    .pubblicita{
+        display: none;
+    }
+
+    .oggetto-scomparsa-mobile{
+        display: none;
+    }
+
+}
+
+
+
+

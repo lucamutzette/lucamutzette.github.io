@@ -1,0 +1,29 @@
+[
+    {
+        "id" : 0,
+        "nome" : "Escursione Faro Vecchio",
+        "descrizione" : 0,
+        "mappa" : "<iframe class='mappa-js-edit' frameBorder='0' scrolling='no' src='https://it.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=60472828&measures=on&title=on&near=on&images=on&maptype=H' width='1000' height='800'></iframe><div style='color:#777;font-size:11px;line-height:16px;'>Powered by <a style='color:#06d;font-size:11px;line-height:16px;' target='_blank' href='https://it.wikiloc.com'>Wikiloc</a></div>"
+    },
+
+    {
+        "id" : 1,
+        "nome" : "Relitto",
+        "descrizione" : "Si trova a pochi metri dalla costa di Capo Comino, facilmente raggiungibile a nuoto o in kayak o mezzi simili.",
+        "mappa" : "<iframe class='mappa-js-edit' src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12127.485353172055!2d9.7982346!3d40.5444316!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8ffd3bc436a12f2e!2sRelitto%20Aereo%20Capo%20Comino!5e0!3m2!1sit!2sit!4v1665938139912!5m2!1sit!2sit' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+
+    {
+        "id" : 3,
+        "nome" : "Affitto Kayak, Canoe, Pedalò",
+        "descrizione" : "I luoghi in cui si posso affittare Canoe, Kayak, Padal ecc sono : <br><a href='https://lisolarossa.it/' target=_'blank'>Stabilimento Isola Rossa</a><br><a href='https://discovergoaround.com/' target=_'blank'>Go Around</a>",
+        "mappa" : "<div><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10526.26457709744!2d9.784012743362807!3d40.55001402555868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x75905781cf49cf44!2sStabilimento%20Balneare%20L&#39;Isola%20Rossa!5e0!3m2!1sit!2sit!4v1665942001275!5m2!1sit!2sit' width='50%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.9617359116864!2d9.794032129548636!3d40.54243451330394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12deddec68916a7d%3A0xbf7679dec66ebd4!2sGoAround!5e0!3m2!1sit!2sit!4v1665942082299!5m2!1sit!2sit' width='50%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe></div>"
+    },
+
+    {
+        "id" : 4,
+        "nome" : "Santa Lucia - Capo Comino",
+        "descrizione" : "'Le biciclette possono essere affitate su: <a href='https://www.explorabikeplanet.com' target=_'blank'>explorabikeplanet.com</a> e su <a href='https://www.ecomoove.it/' target=_'blank'>ecomoove.it</a>. <br>In tutti e due i siti è posibile controllare i prezzi e trovare altre escorsioni da fare nel territorio",
+        "mappa" : "<iframe class='mappa-js-edit' frameBorder='0' scrolling='no' src='https://it.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=22724307&measures=on&title=on&near=on&images=on&maptype=H' width='1000' height='800'></iframe><div style='color:#777;font-size:11px;line-height:16px;'>Powered by <a style='color:#06d;font-size:11px;line-height:16px;' target='_blank' href='https://it.wikiloc.com'>Wikiloc</a></div>"
+    }
+]
