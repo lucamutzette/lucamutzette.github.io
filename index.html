@@ -8,9 +8,25 @@
     <title>Luca Mutzette</title>
 </head>
 <body>
-    <div class="lavoro">
-        <h1>PowePoint Economia</h1>
-        <a href="https://www.canva.com/design/DAFTP13yXeo/ScjkB9ch-Tks_v2UBAQf6w/view?utm_content=DAFTP13yXeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Visualizza</a>
+    <div class="titolo">
+        <h1>Lavori di Luca Mutzette</h1>
     </div>
+    <div id="spazio-lavori">
+
+    </div>
+
+    <script>
+        let lavori = [
+            {
+                "nome" : "PowerPoint Economia",
+                "link" : "https://www.canva.com/design/DAFTP13yXeo/ScjkB9ch-Tks_v2UBAQf6w/view?utm_content=DAFTP13yXeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+            }
+        ];
+
+        for(let i = 0; i<lavori.length; i++){
+            document.getElementById('spazio-lavori').innerHTML += '<div class="lavoro"><h1>'+lavori[i].nome+'</h1><a href="'+lavori[i].link+'" target="_blank">Visualizza</a></div>'
+
+        }
+    </script>
 </body>
 </html>
