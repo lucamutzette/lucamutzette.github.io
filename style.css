@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.lavoro{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: rgb(54, 54, 54);
+}
+
+.lavoro h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.lavoro a{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+
+
+.lavoro a:hover{
+    color: rgba(31, 107, 221, 0.808);
+}
