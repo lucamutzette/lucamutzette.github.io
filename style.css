@@ -2,13 +2,13 @@ body{
     margin: 0;
 }
 
-.titolo{
+.top-title{
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
 }
 
-.titolo h1{
+.top-title h1{
     font-family: Arial, Helvetica, sans-serif;
 }
 
